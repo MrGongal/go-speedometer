@@ -28,3 +28,5 @@ I hope this README is useful for your "Speedometer" script on the FiveM server!!
 
 
 ![image](https://github.com/Gongal014/Speedometer-Edited/assets/140329673/372d12f3-61e2-4cb8-97fa-563e4c0d194f)
+![image](https://github.com/Gongal014/Speedometer-Edited/assets/140329673/dc2e4886-0a8b-4c0c-be9e-b702d9da4d63)
+![image](https://github.com/Gongal014/Speedometer-Edited/assets/140329673/b7b9d3de-2c17-4935-b2bb-4a1348fb1f7b)
