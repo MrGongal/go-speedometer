@@ -25,5 +25,6 @@ If you have any questions, suggestions or want to get in touch, you can find us 
 Discord: discord.gg/AfyAtSDwqM
 GitHub: github.com/Gongal014
 I hope this README is useful for your "Speedometer" script on the FiveM server!!
-[speedometer](https://github.com/Gongal014/Speedometer-Edited/assets/140329673/adade7d4-61a2-4d5f-b0c0-4a1c2be40755)
-![image](https://github.com/Gongal014/Speedometer-Edited/assets/140329673/e740f045-7300-45cb-9232-20abaebd1fa8)
+
+
+![image](https://github.com/Gongal014/Speedometer-Edited/assets/140329673/372d12f3-61e2-4cb8-97fa-563e4c0d194f)
