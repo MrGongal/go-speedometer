@@ -22,9 +22,6 @@ The vehicle's current speed will be shown in the bottom right corner of the play
 
 If you have any questions, suggestions or want to get in touch, you can find us at:
 
-Discord: discord.gg/AfyAtSDwqM
-
-GitHub: github.com/Gongal014
 
 I hope this README is useful for your "Speedometer" script on the FiveM server!!
 
